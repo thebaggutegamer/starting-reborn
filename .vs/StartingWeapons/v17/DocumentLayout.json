@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\stickgunitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\stickgunitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\wandofplantingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\wandofplantingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\thenail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\thenail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\woodenstickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\woodenstickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\woodenstickprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\woodenstickprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\wandofplantingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\wandofplantingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\thenailprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\thenailprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasshookprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasshookprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasshookprojectile_end.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasshookprojectile_end.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasshookprojectile_start.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasshookprojectile_start.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\thenailprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\thenailprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\wandofplantingexplosionprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\wandofplantingexplosionprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasswhipprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasswhipprojectile.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasswhipitem.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasswhipitem.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\description.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:description.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\localization\\en-us_mods.startingweapons.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:localization\\en-us_mods.startingweapons.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\woodendaggeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\woodendaggeritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\grasswhipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\grasswhipitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:description_workshop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|c:\\users\\brayd\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\startingweapons\\content\\items\\woodendaggerprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D2AB75-3556-17B7-5452-151C55A3531E}|StartingWeapons.csproj|solutionrelative:content\\items\\woodendaggerprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrassHookProjectile_Start.png - PNG [16x14, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile_Start.png",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassHookProjectile_Start.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile_Start.png - PNG [16x14, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\GrassHookProjectile_Start.png - PNG [16x14, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:42:09.622Z",
+              "EditorCaption": " - PNG [16x14, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GrassHookProjectile.png - PNG [8x18, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile.png",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassHookProjectile.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile.png - PNG [8x18, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\GrassHookProjectile.png - PNG [8x18, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:42:06.578Z",
+              "EditorCaption": " - PNG [8x18, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WoodenStickProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenStickProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WoodenStickProjectile.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenStickProjectile.cs",
+              "RelativeToolTip": "Content\\Items\\WoodenStickProjectile.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T20:48:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WoodenStickItem.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenStickItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WoodenStickItem.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenStickItem.cs",
+              "RelativeToolTip": "Content\\Items\\WoodenStickItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:21:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheNail.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNail.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\TheNail.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNail.cs",
+              "RelativeToolTip": "Content\\Items\\TheNail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:49:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WandOfPlantingProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WandOfPlantingProjectile.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingProjectile.cs",
+              "RelativeToolTip": "Content\\Items\\WandOfPlantingProjectile.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAwwEUBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:27:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheNailProjectile.png - PNG [64x192, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNailProjectile.png",
+              "RelativeDocumentMoniker": "Content\\Items\\TheNailProjectile.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNailProjectile.png - PNG [64x192, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\TheNailProjectile.png - PNG [64x192, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:40:01.342Z",
+              "EditorCaption": " - PNG [64x192, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StickGunItem.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\StickGunItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\StickGunItem.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\StickGunItem.cs",
+              "RelativeToolTip": "Content\\Items\\StickGunItem.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:11:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrassHookProjectile_End.png - PNG [16x28, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile_End.png",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassHookProjectile_End.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassHookProjectile_End.png - PNG [16x28, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\GrassHookProjectile_End.png - PNG [16x28, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:42:08.197Z",
+              "EditorCaption": " - PNG [16x28, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WandOfPlantingItem.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WandOfPlantingItem.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingItem.cs",
+              "RelativeToolTip": "Content\\Items\\WandOfPlantingItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:14:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TheNailProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNailProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\TheNailProjectile.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\TheNailProjectile.cs",
+              "RelativeToolTip": "Content\\Items\\TheNailProjectile.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T15:51:10.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WandOfPlantingExplosionProjectile.png - PNG [150x150, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingExplosionProjectile.png",
+              "RelativeDocumentMoniker": "Content\\Items\\WandOfPlantingExplosionProjectile.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WandOfPlantingExplosionProjectile.png - PNG [150x150, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\WandOfPlantingExplosionProjectile.png - PNG [150x150, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:44:13.368Z",
+              "EditorCaption": " - PNG [150x150, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrassWhipProjectile.png - PNG [16x92, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipProjectile.png",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassWhipProjectile.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipProjectile.png - PNG [16x92, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\GrassWhipProjectile.png - PNG [16x92, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:42:29.263Z",
+              "EditorCaption": " - PNG [16x92, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GrassWhipItem.png - PNG [38x36, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipItem.png",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassWhipItem.png",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipItem.png - PNG [38x36, 32 bit, PNG]",
+              "RelativeToolTip": "Content\\Items\\GrassWhipItem.png - PNG [38x36, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-21T00:42:25.703Z",
+              "EditorCaption": " - PNG [38x36, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WoodenDaggerItem.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenDaggerItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WoodenDaggerItem.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenDaggerItem.cs",
+              "RelativeToolTip": "Content\\Items\\WoodenDaggerItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:17:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GrassWhipItem.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipItem.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\GrassWhipItem.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\GrassWhipItem.cs",
+              "RelativeToolTip": "Content\\Items\\GrassWhipItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwD4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:08:00.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "description.txt",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\description.txt",
+              "RelativeDocumentMoniker": "description.txt",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\description.txt",
+              "RelativeToolTip": "description.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-13T13:05:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "en-US_Mods.StartingWeapons.hjson",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Localization\\en-US_Mods.StartingWeapons.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.StartingWeapons.hjson",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Localization\\en-US_Mods.StartingWeapons.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.StartingWeapons.hjson",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T22:40:16.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-13T13:57:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "description_workshop.txt",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\description_workshop.txt",
+              "RelativeDocumentMoniker": "description_workshop.txt",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\description_workshop.txt",
+              "RelativeToolTip": "description_workshop.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-13T13:07:51.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WoodenDaggerProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenDaggerProjectile.cs",
+              "RelativeDocumentMoniker": "Content\\Items\\WoodenDaggerProjectile.cs",
+              "ToolTip": "C:\\Users\\brayd\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\StartingWeapons\\Content\\Items\\WoodenDaggerProjectile.cs",
+              "RelativeToolTip": "Content\\Items\\WoodenDaggerProjectile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:20:02.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

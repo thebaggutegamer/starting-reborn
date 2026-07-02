@@ -1,0 +1,72 @@
+Items: {
+	GrassWhipItem: {
+		DisplayName: Grass Whip
+		Tooltip:
+			'''
+			Right click to swing from platforms and trees.
+			'It seems to be two sticks roped together with grass ropes.'
+			'''
+	}
+
+	StickGunItem: {
+		DisplayName: Stick Gun
+		Tooltip:
+			'''
+			Right click to fire a wooden pellet, shoot the pellet to boost damage and autoaim to the nearest enemy.
+			Projectiles can be chained.
+			'Fuelled by the memories of your childhood.'
+			'''
+	}
+
+	WoodenDaggerItem: {
+		DisplayName: Wooden Dagger
+		Tooltip:
+			'''
+			Bounces between enemies on hit.
+			'The sharpest piece of wood you'll ever find.'
+			'''
+	}
+
+	WandOfPlantingItem: {
+		DisplayName: Wand Of Planting
+		Tooltip:
+			'''
+			Leaves stick to enemies, right click to rip the leaves out and guide them temporarily.
+			Releasing right click creates an explosion of leaves.
+			'You poke the end.... Ouch.'
+			'''
+	}
+
+	WoodenStickItem: {
+		DisplayName: Wooden Stick
+		Tooltip:
+			'''
+			Flips and stuns weaker enemies when struck.
+			'It's just like the ones you found as a kid.'
+			'''
+	}
+
+	TheNail: {
+		DisplayName: Wooden Stick
+		Tooltip:
+			'''
+			Uses the power of imagination to 'pogo' off of foes.
+			'Shaw!'
+			'''
+	}
+}
+
+Projectiles: {
+	StickGunProjectile.DisplayName: Stick Gun
+	StickGunRicochetProjectile.DisplayName: Wooden Ricochet
+	WoodenDaggerProjectile.DisplayName: Wooden Dagger
+	WoodenStickSwingProjectile.DisplayName: Wooden Stick
+	WoodenStickSlamProjectile.DisplayName: Wooden Stick
+	GrassWhipProjectile.DisplayName: Grass Whip
+	GrassHookProjectile.DisplayName: Grass Whip
+	WandOfPlantingProjectile.DisplayName: Wand Of Planting
+	WandOfPlantingExplosionProjectile.DisplayName: Wand Of Planting
+	WoodenStickProjectile.DisplayName: Wooden Stick Projectile
+	Rogue.WoodenDaggerProjectile.DisplayName: Wooden Dagger Projectile
+	TheNailProjectile.DisplayName: The Nail Projectile
+}

@@ -1,0 +1,9 @@
+displayName = Starting Class Weapons Reborn
+author = Thebaggutegamer
+version = 1.0.2
+
+hideCode = false
+hideResources = false
+
+includePDB = true
+includeSource = true

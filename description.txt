@@ -1,0 +1,10 @@
+This mod aims to solve a simple problem, only having a copper shortsword at the start of the game to defend yourself, for playthroughs with other classes you are left to struggle until you can obtain a starting weapon from chests or crafting, well no more!
+
+Introducing a starting weapon for each class, crafted with just 10 wood you'll be able to obtain whatever weapon you want as soon as you chop down your first tree.
+
+Features
+-4 new early game weapons and an extra when used with Calamity
+
+-High quality sprites (Credit to Dandy6_ on discord)
+
+-Fully revamped weapons with unique functions (Credit to Nakamurash on discord)
