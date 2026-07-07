@@ -3,7 +3,7 @@ using Terraria.ModLoader.IO;
 
 namespace StartingWeapons.Content.Items;
 
-public sealed class WoodenStickGlobalNPC : GlobalNPC
+public sealed class WoodenClubGlobalNPC : GlobalNPC
 {
     /// <summary>
     ///     The duration of the stun effect applied by the <see cref="WoodenStickProjectile" />, in ticks.
