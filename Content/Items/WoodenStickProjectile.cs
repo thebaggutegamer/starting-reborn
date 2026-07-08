@@ -50,6 +50,7 @@ public class WoodenStickProjectile : ModProjectile
             {
                 _currentAngle = MathHelper.Lerp(_currentAngle, _startingAngle - MathHelper.PiOver2 * _direction, 0.1f);
                 _chargeTimer++;
+                _startingAngle = _owner.AngleTo(Main.MouseWorld) + _direction * MathHelper.PiOver4 * -1;
             }
             else
             {
