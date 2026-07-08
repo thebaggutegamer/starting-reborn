@@ -13,6 +13,19 @@ public class WoodenCrossbowPlayer : ModPlayer
     private int _shotsHit;
     public Queue<int> TaggedTargetIds = new Queue<int>(5);
 
+    public override void ResetEffects()
+    {
+        // really bad???
+        List<int> activeTargets = [];
+        for (int i = 0; i < TaggedTargetIds.Count; i++)
+        {
+            int npcIndex = TaggedTargetIds.ElementAt(i);
+            if (Main.npc[npcIndex].active)
+                activeTargets.Add(npcIndex);
+        }
+        TaggedTargetIds = new Queue<int>(activeTargets);
+    }
+
     public bool TryFindClosestTarget(Vector2 center, out int targetIndex)
     {
         targetIndex = -1;

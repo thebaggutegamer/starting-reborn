@@ -31,7 +31,7 @@ public class TreeSentry : ModProjectile
 
     private const int LEAF_SPAWN_INTERVAL = 90;
 
-    private const float TARGET_RANGE = 16 * 16 * 16 * 16; // 16 tile radius
+    private const float TARGET_RANGE = 64 * 16 * 64 * 16; // 16 tile radius
 
     public override void SetStaticDefaults()
     {
@@ -71,7 +71,7 @@ public class TreeSentry : ModProjectile
                     _leafSpawnTimer = 0;
                 }
             }
-            if (_activeLeaves > 0  && CanShoot(out int target) && Main.netMode != NetmodeID.MultiplayerClient)
+            if (_activeLeaves > 0 && CanShoot(out int target) && Main.netMode != NetmodeID.MultiplayerClient)
             {
                 int freeIndex = Array.FindIndex(_leaves, (leaf) => leaf.Alive);
                 if (freeIndex != -1 && (_leaves[freeIndex].DestinationScale - _leaves[freeIndex].Scale) < 0.01f)
@@ -84,6 +84,10 @@ public class TreeSentry : ModProjectile
                 }
             }
         }
+        for (int i = 0; i < _leaves.Length; i++)
+        {
+            _leaves[i].Scale = MathHelper.Lerp(_leaves[i].Scale, _leaves[i].DestinationScale, 0.05f);
+        }
     }
     public override bool PreDraw(ref Color lightColor)
     {
@@ -94,7 +98,6 @@ public class TreeSentry : ModProjectile
         {
             if (_leaves[i].Alive)
             {
-                _leaves[i].Scale = MathHelper.Lerp(_leaves[i].Scale, _leaves[i].DestinationScale, 0.05f);
                 Main.spriteBatch.Draw(leafSprite, _leaves[i].Position - Main.screenPosition, null, lightColor, _leaves[i].Rotation, leafSprite.Size()/2, _leaves[i].Scale, SpriteEffects.None, 0);
             }
         }
