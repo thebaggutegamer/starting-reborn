@@ -56,10 +56,10 @@ public class TreeSentry : ModProjectile
         Projectile.velocity.Y += 0.2f;
         if (Main.netMode != NetmodeID.MultiplayerClient)
         {
-            if (_leafSpawnTimer >= LEAF_SPAWN_INTERVAL)
+            if (_leafSpawnTimer >=LEAF_SPAWN_INTERVAL)
             {
                 int freeIndex = Array.FindIndex(_leaves, (leaf) => !leaf.Alive);
-                if (freeIndex != -1)
+                if (freeIndex != -1 && _activeLeaves <= _leaves.Length)
                 {
                     ref var leaf = ref _leaves[freeIndex];
                     leaf.Position = new Vector2(Projectile.Center.X + Main.rand.Next(-15, 15), Projectile.Center.Y + Main.rand.Next(-20, 10));
@@ -71,10 +71,10 @@ public class TreeSentry : ModProjectile
                     _leafSpawnTimer = 0;
                 }
             }
-            if (_activeLeaves > 0 && CanShoot(out int target) && Main.netMode != NetmodeID.MultiplayerClient)
+            if (CanShoot(out int target) && Main.netMode != NetmodeID.MultiplayerClient)
             {
-                int freeIndex = Array.FindIndex(_leaves, (leaf) => leaf.Alive);
-                if (freeIndex != -1 && (_leaves[freeIndex].DestinationScale - _leaves[freeIndex].Scale) < 0.01f)
+                int freeIndex = Array.FindIndex(_leaves, (leaf) => leaf.Alive && leaf.Scale/leaf.DestinationScale > 0.65f);
+                if (freeIndex != -1)
                 {
                     _leaves[freeIndex].Alive = false;
                     _activeLeaves--;
@@ -86,7 +86,7 @@ public class TreeSentry : ModProjectile
         }
         for (int i = 0; i < _leaves.Length; i++)
         {
-            _leaves[i].Scale = MathHelper.Lerp(_leaves[i].Scale, _leaves[i].DestinationScale, 0.05f);
+            _leaves[i].Scale = MathHelper.Lerp(_leaves[i].Scale, _leaves[i].DestinationScale, 0.1f);
         }
     }
     public override bool PreDraw(ref Color lightColor)
