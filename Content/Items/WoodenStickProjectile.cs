@@ -40,6 +40,7 @@ public class WoodenStickProjectile : ModProjectile
         Projectile.Size = new(20, 20);
         Projectile.friendly = true;
         Projectile.penetrate = -1;
+        Projectile.timeLeft = 30;
     }
     public override void AI()
     {
@@ -82,11 +83,13 @@ public class WoodenStickProjectile : ModProjectile
         if (_stickState == StickBehavior.Returning)
         {
             Projectile.tileCollide = false;
-            if (!_canTargetEnemies)
-                Projectile.velocity = Vector2.Lerp(Projectile.velocity, Projectile.DirectionTo(_owner.Center) * (16 * MathHelper.Clamp(_chargeTimer / 25f, 0.8f, 1.2f)), 0.05f);
-            else if (_targetsHit < 3)
+            if (_targetsHit < 3 && _targets[_targetsHit] is not null && _canTargetEnemies)
             {
                 Projectile.velocity = Vector2.Lerp(Projectile.velocity, Projectile.DirectionTo(_targets[_targetsHit].Center) * 16, 0.03f);
+            }
+            else if (!_canTargetEnemies || _targets[_targetsHit] is null)
+            {
+                Projectile.velocity = Vector2.Lerp(Projectile.velocity, Projectile.DirectionTo(_owner.Center) * (16 * MathHelper.Clamp(_chargeTimer / 25f, 0.8f, 1.2f)), 0.05f);
             }
             _currentAngle += 0.3f;
         }
@@ -182,7 +185,7 @@ public class WoodenStickProjectile : ModProjectile
         foreach(var npc in Main.ActiveNPCs)
         {
             float distance = npc.DistanceSQ(center);
-            if (targetDistancePair.distance > distance && !npcsToIgnore.Any(n => (n is not null && n.whoAmI == npc.whoAmI)))
+            if (targetDistancePair.distance > distance && !npcsToIgnore.Any(n => (n is not null && n.whoAmI == npc.whoAmI)) && npc.CanBeChasedBy())
             {
                 targetDistancePair.distance = distance;
                 targetDistancePair.index = npc.whoAmI;
